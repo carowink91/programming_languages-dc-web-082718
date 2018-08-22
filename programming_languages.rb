@@ -10,7 +10,6 @@ def reformat_languages (languages)
           type_hash
         }
       }
-      binding.pry
     end
   end
   new_hash
