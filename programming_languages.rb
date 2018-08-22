@@ -11,9 +11,6 @@ def reformat_languages (languages)
       languages.each do |style, language_hash|
         binding.pry
       end
-
-      binding.pry
-
     end
   end
   new_hash
